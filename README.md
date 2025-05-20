@@ -1,5 +1,5 @@
-# og-image-preview
-OG image preview
+# OG-Image-Preview
+Open Graph image preview
 
 ### Example Code:
 ```php
